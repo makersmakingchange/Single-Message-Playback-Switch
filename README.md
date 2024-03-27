@@ -1,5 +1,8 @@
 # Single Message Playback Switch
-The Single Message Playback Switch is a switch device that can store and play back a single 30 second message. The device can be used both as a toy and as a communication aid.
+The Single Message Playback Switch is a switch adapted device that can store and play back a single 30 second message. The device can be used both as a toy or as a communication aid. A commercially available voice recording button is modified so that it can be activated using a secondary assistive switch with a 3.5 mm plug. 
+
+To setup the device, a carer or helper needs to press the record button and require the desired message or sound. An assistive switch is then connected to the 3.5 mm jack.  To use the device, activate the assistive switch. When the assistive switch is activated, the pre-recorded message or sound will be played through the speaker. The device can also be activated direcly by pressing the integrated button on the top.
+
 
 <img src="Photos/Single_Message_Playback_Switch.jpg" width="500" alt="Picture of Single Message Playback Switch.">
 
@@ -14,7 +17,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Request a build of this device
 
-If you would like to obtain a Single Message Playback Switch, you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/Single-Message-Playback-Switch/). The requestor is responsible for the cost of materials and any shipping.
+If you would like to obtain a Single Message Playback Switch, you may submit a build request through the [MMC Library Page](https://www.makersmakingchange.com/s/product/single-message-playback-switch/01tJR000001HyonYAC). The requestor is responsible for the cost of materials and any shipping.
 
 ### 3. How to build this device for someone else
 
@@ -25,13 +28,11 @@ If you have the skills and equipment to build this device, and would like to don
 
 ### 1. Read the Makers Checklist
 
-The Makers Checklist 
+The [Maker Checklist(/Documentation/Single_Message_Playback_Switch_Maker_Checklist.pdf) outlines the steps required to build the device.
 
 ### 2. Order the Off-The-Shelf Components
 
 The [Bill of Materials](/Documentation/Single_Message_Playback_Switch_BOM.xlsx) lists all of the parts and components required to build the Single Message Playback Switch. 
-
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
 ### 3. Assemble the Single Message Playback Switch
 
@@ -41,23 +42,30 @@ Reference the [Assembly Guide](/Documentation/Single_Message_Playback_Switch_Mak
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [Single_Message_Playback_Switch_Design_Rationale](/Documentation/Single_Message_Playback_Switch_Design_Rationale.pdf)     |
+| Maker's Checklist    | 1.0     | [Single_Message_PLayback_Switch_Maker_Checklist](/Documentation/Single_Message_Playback_Switch_Maker_Checklist.pdf)  | 
 | Bill of Materials    | 1.0     | [Single_Message_Playback_Switch_Bill_of_Materials](/Documentation/Single_Message_Playback_Switch_BOM.xlsx)     |
 | 3D Printing Guide    | 1.0     | [Single_Message_Playback_Switch_3D_Printing_Guide](/Documentation/Single_Message_Playback_Switch_3D_Printing_Guide.pdf)     |
 | Maker Guide       | 1.0     | [Single_Message_Playback_Switch_Assembly_Guide](/Documentation/Single_Message_Playback_Switch_Assembly_Guide.pdf)     |
 | User Guide           | 1.0     | [Single_Message_Playback_Switch_User_Guide](/Documentation/Single_Message_Playback_Switch_User_Guide.pdf)    |
+| Design Rationale     | 1.0     | [Single_Message_Playback_Switch_Design_Rationale](/Documentation/Single_Message_Playback_Switch_Design_Rationale.pdf)     |
 | Changelog            | 1.0     | [Single_Message_Playback_Switch_Changelog](Changes.txt)     |
 
+
+<!---
 ### Design Files
 [CAD Files](/Design_Files)
-
+--->
+<!---
 ### Build Files
  - [3D Printing Files](/Build_Files/3D_Printing_Files)
+ --->
 
 ## Attribution
-Designers:
- - Documentation and Design by Neil Squire Society/Makers Making Change
+Documentation and Design by Neil Squire Society/Makers Making Change
 
+Contributors:
+ - Brad Wellington, Neil Squire Society / Makers Making Change
+ - Jake McIvor, Neil Squire Society / Makers Making Change
 
 
 ## License
