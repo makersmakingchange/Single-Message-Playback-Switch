@@ -1,11 +1,10 @@
 # Single Message Playback Switch
 The Single Message Playback Switch is a switch device that can store and play back a single 30 second message. The device can be used both as a toy and as a communication aid.
 
-<img src="Photos/Single-Message-Playback-Switch.jpg" width="500" alt="Picture of Single Message Playback Switch.">
+<img src="Photos/Single_Message_Playback_Switch.jpg" width="500" alt="Picture of Single Message Playback Switch.">
 
 ## More info at
-- [Makers Making Change Project Page](https://makersmakingchange.com/project/Single-Message-Playback-Switch/)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/Single-Message-Playback-Switch/)
+- [Makers Making Change Device Library Listing]([https://makersmakingchange.com/project/Single-Message-Playback-Switch/](https://www.makersmakingchange.com/s/product/single-message-playback-switch/01tJR000001HyonYAC))
 
 
 ## How to Obtain a Single Message Playback Switch
@@ -30,26 +29,24 @@ The Makers Checklist
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/Single_Message_Playback_Switch_BOM_V1.0.xlsx) lists all of the parts and components required to build the Single Message Playback Switch. The main switch component needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
-
+The [Bill of Materials](/Documentation/Single_Message_Playback_Switch_BOM.xlsx) lists all of the parts and components required to build the Single Message Playback Switch. 
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
 ### 3. Assemble the Single Message Playback Switch
 
-Reference the [Assembly Guide](/Documentation/Single_Message_Playback_Switch_Assembly_Guide_V1.0.pdf) for the tools and steps required to build each portion.
+Reference the [Assembly Guide](/Documentation/Single_Message_Playback_Switch_Maker_Guide.pdf) for the tools and steps required to build each portion.
 
 ## Files
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [Single_Message_Playback_Switch_Design_Rationale](/Documentation/Single_Message_Playback_Switch_Design_Rationale_V1.0.pdf)     |
-| Maker Checklist      | 1.0     | [Single_Message_Playback_Switch_Maker_Checklist](/Documentation/Single_Message_Playback_Switch_Maker_Checklist_V1.0.pdf)     |
-| Bill of Materials    | 1.0     | [Single_Message_Playback_Switch_Bill_of_Materials](/Documentation/Single_Message_Playback_Switch_BOM_V1.0.xlsx)     |
-| 3D Printing Guide    | 1.0     | [Single_Message_Playback_Switch_3D_Printing_Guide](/Documentation/Single_Message_Playback_Switch_3D_Printing_Guide_V1.0.pdf)     |
-| Assembly Guide       | 1.0     | [Single_Message_Playback_Switch_Assembly_Guide](/Documentation/Single_Message_Playback_Switch_Assembly_Guide_V1.0.pdf)     |
-| User Guide           | 1.0     | [Single_Message_Playback_Switch_User_Guide](/Documentation/Single_Message_Playback_Switch_User_Guide_V1.0.pdf)    |
-| Changelog            | 1.0     | [Single_Message_Playback_Switch_Changelog](/Documentation/Single_Message_Playback_Switch_Changelog_V1.0.pdf)     |
+| Design Rationale     | 1.0     | [Single_Message_Playback_Switch_Design_Rationale](/Documentation/Single_Message_Playback_Switch_Design_Rationale.pdf)     |
+| Bill of Materials    | 1.0     | [Single_Message_Playback_Switch_Bill_of_Materials](/Documentation/Single_Message_Playback_Switch_BOM.xlsx)     |
+| 3D Printing Guide    | 1.0     | [Single_Message_Playback_Switch_3D_Printing_Guide](/Documentation/Single_Message_Playback_Switch_3D_Printing_Guide.pdf)     |
+| Maker Guide       | 1.0     | [Single_Message_Playback_Switch_Assembly_Guide](/Documentation/Single_Message_Playback_Switch_Assembly_Guide.pdf)     |
+| User Guide           | 1.0     | [Single_Message_Playback_Switch_User_Guide](/Documentation/Single_Message_Playback_Switch_User_Guide.pdf)    |
+| Changelog            | 1.0     | [Single_Message_Playback_Switch_Changelog](Changes.txt)     |
 
 ### Design Files
 [CAD Files](/Design_Files)
@@ -72,16 +69,23 @@ Accompanying material such as instruction manuals, videos, and other copyrightab
 ---
 
 ## About Makers Making Change
-<img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
+[<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
-Makers Making Change is an initiative of [Neil Squire](https://www.neilsquire.ca/), a Canadian non-profit that helps people with disabilities.
+Makers Making Change is a program of [Neil Squire](https://www.neilsquire.ca/), a Canadian non-profit that uses technology, knowledge, and passion to empower people with disabilities.
 
-We are committed to creating a network of volunteer makers who support people with disabilities in their communities through 3D printing assistive devices. Check out our library of free, open-source assistive technologies with parts and build instructions.
+Makers Making Change leverages the capacity of community based Makers, Disability Professionals and Volunteers to develop and deliver affordable Open Source Assistive Technologies.
 
  - Website: [www.MakersMakingChange.com](https://www.makersmakingchange.com/)
- - GitHub: [https://github.com/makersmakingchange](https://github.com/makersmakingchange)
- - Twitter: [@makermakechange](https://twitter.com/makermakechange)
+ - GitHub: [makersmakingchange](https://github.com/makersmakingchange)
+ - X (formally Twitter): [@makermakechange](https://twitter.com/makermakechange)
  - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
+ - Facebook: [makersmakechange](https://www.facebook.com/makersmakechange)
+ - LinkedIn: [Neil Squire Society](https://www.linkedin.com/company/neil-squire-society/)
+ - Thingiverse: [makersmakingchange](https://www.thingiverse.com/makersmakingchange/about)
+ - Printables: [MakersMakingChange](https://www.printables.com/@MakersMakingChange)
+
+### Contact Us
+For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
 
 
 
