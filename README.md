@@ -7,7 +7,7 @@ To setup the device, a carer or helper needs to press the record button and requ
 <img src="Photos/Single_Message_Playback_Switch.jpg" width="500" alt="Picture of Single Message Playback Switch.">
 
 ## More info at
-- [Makers Making Change Device Library Listing]([https://makersmakingchange.com/project/Single-Message-Playback-Switch/](https://www.makersmakingchange.com/s/product/single-message-playback-switch/01tJR000001HyonYAC))
+- [Makers Making Change Device Library Listing](https://www.makersmakingchange.com/s/product/single-message-playback-switch/01tJR000001HyonYAC)
 
 
 ## How to Obtain a Single Message Playback Switch
@@ -21,14 +21,14 @@ If you would like to obtain a Single Message Playback Switch, you may submit a b
 
 ### 3. How to build this device for someone else
 
-If you have the skills and equipment to build this device, and would like to donate your time to create the switch for someone who needs it, visit the [MMC Maker Wanted](https://makersmakingchange.com/maker-wanted/) section.
+If you have the skills and equipment to build this device, and would like to donate your time to create the device for someone who needs it, visit the [MMC Maker Wanted](https://makersmakingchange.com/maker-wanted/) section.
 
 
 ## Getting Started
 
 ### 1. Read the Makers Checklist
 
-The [Maker Checklist(/Documentation/Single_Message_Playback_Switch_Maker_Checklist.pdf) outlines the steps required to build the device.
+The [Maker Checklist](/Documentation/Single_Message_Playback_Switch_Maker_Checklist.pdf) outlines the steps required to build the device.
 
 ### 2. Order the Off-The-Shelf Components
 
@@ -45,7 +45,7 @@ Reference the [Assembly Guide](/Documentation/Single_Message_Playback_Switch_Mak
 | Maker's Checklist    | 1.0     | [Single_Message_PLayback_Switch_Maker_Checklist](/Documentation/Single_Message_Playback_Switch_Maker_Checklist.pdf)  | 
 | Bill of Materials    | 1.0     | [Single_Message_Playback_Switch_Bill_of_Materials](/Documentation/Single_Message_Playback_Switch_BOM.xlsx)     |
 | 3D Printing Guide    | 1.0     | [Single_Message_Playback_Switch_3D_Printing_Guide](/Documentation/Single_Message_Playback_Switch_3D_Printing_Guide.pdf)     |
-| Maker Guide       | 1.0     | [Single_Message_Playback_Switch_Assembly_Guide](/Documentation/Single_Message_Playback_Switch_Assembly_Guide.pdf)     |
+| Maker Guide          | 1.0     | [Single_Message_Playback_Switch_Assembly_Guide](/Documentation/Single_Message_Playback_Switch_Assembly_Guide.pdf)     |
 | User Guide           | 1.0     | [Single_Message_Playback_Switch_User_Guide](/Documentation/Single_Message_Playback_Switch_User_Guide.pdf)    |
 | Design Rationale     | 1.0     | [Single_Message_Playback_Switch_Design_Rationale](/Documentation/Single_Message_Playback_Switch_Design_Rationale.pdf)     |
 | Changelog            | 1.0     | [Single_Message_Playback_Switch_Changelog](Changes.txt)     |
