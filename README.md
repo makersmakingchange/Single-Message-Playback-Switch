@@ -43,7 +43,7 @@ Reference the [Assembly Guide](/Documentation/Single_Message_Playback_Switch_Mak
 | Document             | Version | Link |
 |----------------------|---------|------|
 | Maker's Checklist    | 1.0     | [Single_Message_PLayback_Switch_Maker_Checklist](/Documentation/Single_Message_Playback_Switch_Maker_Checklist.pdf)  | 
-| Bill of Materials    | 1.0     | [Single_Message_Playback_Switch_Bill_of_Materials](/Documentation/Single_Message_Playback_Switch_BOM.xlsx)     |
+| Bill of Materials    | 1.1     | [Single_Message_Playback_Switch_Bill_of_Materials](/Documentation/Single_Message_Playback_Switch_BOM.xlsx)     |
 | 3D Printing Guide    | 1.0     | [Single_Message_Playback_Switch_3D_Printing_Guide](/Documentation/Single_Message_Playback_Switch_3D_Printing_Guide.pdf)     |
 | Maker Guide          | 1.0     | [Single_Message_Playback_Switch_Assembly_Guide](/Documentation/Single_Message_Playback_Switch_Assembly_Guide.pdf)     |
 | User Guide           | 1.0     | [Single_Message_Playback_Switch_User_Guide](/Documentation/Single_Message_Playback_Switch_User_Guide.pdf)    |
